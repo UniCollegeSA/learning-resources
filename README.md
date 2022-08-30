@@ -87,8 +87,9 @@ To break free from Tutorial Hell you must actually try to build projects on your
 
 ## YouTube Channels
 
-- **Academind**
 - **Traversy Media**
+- **Academind**
+- **Net Ninja**
 
 ## Practice
 
